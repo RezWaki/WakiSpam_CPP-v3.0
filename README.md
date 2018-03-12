@@ -1,1 +1,2 @@
-# WakiSpam_CPP-v3.0
+# ChangeLog
+Added hotkey (F1) to stop spam, works in any window
